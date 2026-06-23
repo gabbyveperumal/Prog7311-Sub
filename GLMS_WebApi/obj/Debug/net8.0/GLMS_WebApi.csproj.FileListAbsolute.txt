@@ -1,0 +1,9 @@
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Desktop\Prog7311\final-poe-ST10453876-Gabriella-Perumal\GLMS_WebApi\obj\Debug\net8.0\GLMS_WebApi.sourcelink.json
